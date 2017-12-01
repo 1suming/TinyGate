@@ -1,0 +1,4 @@
+#ifndef ORPC_QUEUESERVER_API_H
+#define ORPC_QUEUESERVER_API_H
+
+#endif  //! #ifndef ORPC_QUEUESERVER_API_H
